@@ -14,7 +14,7 @@ import parsel
 
 headers = {
     'Connection': 'keep-alive',
-    'Cookie': 'channelid=0; sid=1642822575732762; _gcl_au=1.1.274058625.1642822945; Hm_lvt_7ed65b1cc4b810e9fd37959c9bb51b31=1642822945; Hm_lpvt_7ed65b1cc4b810e9fd37959c9bb51b31=1642822945',
+    'Cookie': 'channelid=0; sid=1111111; _gcl_au=1111111; ',
     'Host': 'www.kuaidaili.com',
     'Pragma': 'no-cache',
     'sec-ch-ua': '" Not;A Brand";v="99", "Google Chrome";v="97", "Chromium";v="97"',
