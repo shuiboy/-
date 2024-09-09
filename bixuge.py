@@ -3,7 +3,6 @@ import parsel
 import re
 
 headers = {
-#'Cookie': '__gads=ID=2cf2649fa6e1dc22-228f14fe3dd000f7:T=1643513953:RT=1643513953:S=ALNI_MbcHRJtaP5U2csLltBzttbzvNrmkg; UM_distinctid=17ea910c03f114-0ee8d6b4591cf5-f791539-144000-17ea910c040bd4; CNZZDATA4625776=cnzz_eid%3D43978719-1643512691-https%253A%252F%252Fwww.baidu.com%252F%26ntime%3D1644204359',
 'Host': 'www.shengxu5w.com',
 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36',
 }
